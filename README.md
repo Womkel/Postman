@@ -1,1 +1,1 @@
-My Postman collection for testing and practice.   
+My Postman collection for testing and practice.
